@@ -6,6 +6,6 @@
     <link rel="stylesheet" href="estilo.css" type="text/css">
   </head>
   <body class="tela-azul">
-    Aqui vai o código HTML que fará o seu site aparecer. alteração 1
+    Aqui vai o código HTML que fará o seu site aparecer. alteração 2
   </body>
 </html>
